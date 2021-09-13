@@ -39,6 +39,6 @@ st.write('Facturación 60 días aproximada:')
 st.write("${:,.0f}". format(round(facturacion_60_aprox)))
 st.write('Ventas últimos 60 días:')
 st.write(seller_sales)
-st.write("ventas historicas (365 días?")
+st.write("ventas historicas (365 días?)")
 st.write(ventas_hist)
 
